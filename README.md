@@ -3,13 +3,12 @@
 
 Email Me 👉 ✉️ **manishkumar076@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** DSA Visualizer
-- 🌱 **I’m currently learning:** Core java + Editing 
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** manishkumar076ece@gmail.com
-- 😄 **Pronouns:** Manish Keshri
-- ⚡ **Fun fact:** I Love Coding and Coding Love Me
+- 🔭 **I’m currently working on:** **DSA Visualizer**
+- 🌱 **I’m currently learning:** **Core java + Editing** 
+- 💬 **Ask me about:**  **Collaboration, Tech Support**
+- 📫 **How to reach me:**  **manishkumar076ece@gmail.com**
+- 😄 **Pronouns:** ***Manish Keshri***
+- ⚡ **Fun fact:** **I Love Coding and Coding Love Me**
 
 - 
 ## 🌐 Socials:
