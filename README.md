@@ -1,4 +1,17 @@
+# 💫 Hi 👋, I'm Manish Keshri
+**A passionate full Stack Devloper || Frontend Engineer || I'm from India**
 
+Email Me 👉 ✉️ **manishkumar076@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** DSA Visualizer
+- 🌱 **I’m currently learning:** Core java + Editing 
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** manishkumar076ece@gmail.com
+- 😄 **Pronouns:** Manish Keshri
+- ⚡ **Fun fact:** I Love Coding and Coding Love Me
+
+- 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manish_keshri_9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manishkumar076) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manishkumar076ece@gmail.com) 
 
@@ -8,6 +21,12 @@
 ![](https://github-readme-stats.shion.dev/api?username=manishkumar620&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=manishkumar620&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=manishkumar620&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manishkumar620&theme=radical&no-frame=false&no-bg=true&margin-w=4)
